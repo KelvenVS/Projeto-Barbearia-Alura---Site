@@ -6,4 +6,4 @@
 
 <h2>Descrição do Projeto<h2>
 
-<p>Primeiro projeto em desenvolvimento com HTML e CSS. Foi desenvolvido durante a aprendizagem no curso de HTML e CSS pela Alura<p>
+<p>Primeiro projeto em desenvolvimento com HTML e CSS. Foi elaborado durante a aprendizagem no curso de HTML e CSS pela Alura<p>
